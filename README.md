@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hey there! I'm Julka 👋 </h1>
 
-<!--
-**julczal/julczal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :mortar_board: Volleyball player. 
+
+- :trophy: Sports fan.
+
+- :books: Learning HTML, CSS.
+
+</div>
+
+
