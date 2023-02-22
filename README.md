@@ -8,7 +8,7 @@
 
 - :trophy: Sports fan.
 
-- :books: Learning HTML, CSS.
+- :books: Learning HTML, CSS, programming languages, SCRUM
 
 </div>
 
